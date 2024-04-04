@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhaji-patil&label=Profile%20views&color=0e75b6&style=flat" alt="sambhaji-patil" /> </p>
 
-- 🌱 I’m currently learning **Python Frameworks**
+- 🌱 I’m currently learning **Python Frameworks & GUI Dev**
 
 - 📫 How to reach me **sampat20th@gmail.com**
 
