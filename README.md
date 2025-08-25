@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Sambhaji</h1>
-<h3 align="center">🚀 Curious CSE Undergrad | 💡 AIML Explorer | 🔓 Open Source Contributor</h3>
+<h3 align="center">🚀 Curious CSE Undergrad | 💡 AIML Explorer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Always+learning+%26+building.;❤️Hackathons;AIML+%7C+CV+%7C+Backend+Ninja."/>
