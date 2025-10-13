@@ -7,13 +7,15 @@
 
 ---
 
-### About Me
+### 🧭 The Short Version
 
-- 🎓 Computer Science Engineering undergrad
-- 🤖 Exploring **AI/ML**, **Computer Vision**, and **Cool tools**
-- 🛠️ Building from **spam detectors** to **multimodal diagnostics**
-- 🌱 Learning **DSA in C++** and scaling my **ML game**
-- 🏆 Passionate about **hackathons**, research-based projects & **impactful** solutions
+> A CSE undergrad who loves turning **AI concepts into working systems** — from spam detection to multimodal medical diagnostics.  
+> I like my models lean, my code clean, and my goals a bit out of reach.
+
+- 💡 Currently exploring **AI/ML + Computer Vision + LLMOps**
+- 🧠 Practicing **DSA in C++** to sharpen my problem-solving reflexes  
+- ⚡ Active in **hackathons**, building tools that *actually matter*  
+- 🌍 Passionate about **open-source**, scalable design, and impact-driven AI
 
 ---
 
@@ -32,9 +34,11 @@
 #### 🧠 AI/ML & Tools
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
