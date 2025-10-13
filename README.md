@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🎓 Computer Science Engineering undergrad
 - 🤖 Exploring **AI/ML**, **Computer Vision**, and **Cool tools**
@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 #### 🚀 Languages & Frameworks
 <div align="center">
