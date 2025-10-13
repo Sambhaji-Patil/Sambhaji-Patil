@@ -55,6 +55,22 @@
 
 ---
 
+### 🚀 Featured Work
+
+📦 **[GitHub Spam Detection Action](https://github.com/Sambhaji-Patil/Auto-Hide-Spam-Comments)**  
+_Auto-flags spam in issues, discussions & PRs using a Naive Bayes model._  
+🧩 Integrated into CI workflows via GitHub Actions and personalized using Supabase feedback.
+
+🩺 **[Heart Segmentation](https://github.com/Sambhaji-Patil/Heart_Segmentation)**  
+_Segmentation of the left atrium from volumetric CT scans using a custom 3D U-Net architecture._
+
+⚙️ **[FastAPI + RAG System (HackRx 6.0)](https://github.com/Sambhaji-Patil/Multi-Doc-RAG)**  
+_A retrieval-augmented generation system with Qdrant, LLaMA, and custom document parsers._
+
+---
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
