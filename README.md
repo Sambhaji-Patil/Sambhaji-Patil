@@ -10,11 +10,10 @@
 ### 🟢 The Short Version
 ---
 
-> A CSE undergrad who loves turning **AI concepts into working systems** — from spam detection to multimodal medical diagnostics.  
+> A CSE undergrad who loves turning **AI concepts into working systems** — from automating lengthy tasks to multimodal production grade AI Systems.  
 > I like my models lean, my code clean, and my goals a bit out of reach.
 
 - 💡 Currently exploring **AI/ML + Computer Vision + LLMOps**
-- 🧠 Practicing **DSA in C++** to sharpen my problem-solving reflexes  
 - ⚡ Active in **hackathons**, building tools that *actually matter*  
 - 🌍 Passionate about **open-source**, scalable design, and impact-driven AI
 
@@ -93,23 +92,10 @@ _A retrieval-augmented generation system with Qdrant, LLaMA, and custom document
   <table> 
     <tr> 
       <td align="center"> <a href="https://github.com/Sambhaji-Patil"> <img src="https://streak-stats.demolab.com?user=Sambhaji-Patil&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/> </a> 
-      </td> <td align="center"> <a href="https://github.com/Sambhaji-Patil"> <img src="https://github-readme-stats.vercel.app/api?username=Sambhaji-Patil&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/> </a> 
-      </td> <td align="center"> <a href="https://github.com/Sambhaji-Patil"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhaji-Patil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/> </a> 
       </td> 
     </tr> 
   </table> 
 </div>
-
-
-
-### 🟢 GitHub Trophies
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambhaji-Patil&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" />
-</p>
-
-
 
 ### 🟢 Connect with Me
 ---
